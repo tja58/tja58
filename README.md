@@ -1,16 +1,13 @@
-### Hi there 👋
+# Taylor A
 
-<!--
-**tja58/tja58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently enrolled in college studying Computer science, and learning as much different programming languages as possible.
 
-Here are some ideas to get you started:
+Languages I currently have studied
+- HTML
+- CSS
+- Python
+- JavaScript
+- Swift
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Creating websites, IOS applications and creating other projects
