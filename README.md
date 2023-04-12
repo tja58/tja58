@@ -9,5 +9,6 @@ Languages I currently have studied
 - JavaScript
 - Swift
 - PHP
+- React
 
 Creating websites, IOS applications and creating other projects
