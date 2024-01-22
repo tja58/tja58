@@ -20,10 +20,6 @@ Live Demos will be available soon! More projects are being currently worked on!
 
 Get to know more about me! I'm a motivated and experience programmer and ready to demonstrate my skills! [Project Source Code](https://github.com/tja58/Portfolio)
 
-### Pets Choice
-
-View my demonstration of a pet online store mockup! Which I use React and Express to handle all the intergration needed for an online store! [Project Source Code]()
-
 # Socials
 
 - [LinkedIn](https://www.linkedin.com/in/taylor-atkin-2a3b62222/)
